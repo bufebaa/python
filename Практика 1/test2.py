@@ -1,9 +1,9 @@
 
 class Rectangle:
 
-    def __init__(self):
-        self.__width = 1.0
-        self.__length = 1.0
+    def __init__(self, width = 1.0, length = 1.0):
+        self.__width = width
+        self.__length = length
 
     def count_perimiter(self):
         return self.__length*2+self.__width*2
