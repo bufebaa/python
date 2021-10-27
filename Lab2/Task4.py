@@ -88,7 +88,7 @@ class BinarySearchTree:
     def __init__(self):
         self.root = None
 
-    def insert(self, label : Product):
+    def insert(self, label):
         # Create a new Node
         new_node = Node(label, None)
         # If Tree is empty
@@ -116,7 +116,7 @@ class BinarySearchTree:
             #Set parent to the new node
             new_node.setParent(parent_node)
 
-    def delete(self, label : Product):
+    def delete(self, label):
         if (not self.empty()):
             #Look for the node with that label
             node = self.getNode(label)
