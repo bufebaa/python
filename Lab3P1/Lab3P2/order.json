@@ -1,0 +1,15 @@
+{
+    "Clients": [
+        {
+            "Name": "Dasha",
+            "Order": [
+                "Hawaiian",
+                "Hawaiian",
+                "Local",
+                "Hawaiian",
+                "NonStop"
+            ],
+            "Total sum is": 764
+        }
+    ]
+}

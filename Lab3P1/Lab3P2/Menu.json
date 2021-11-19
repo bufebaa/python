@@ -1,0 +1,46 @@
+{
+    "Pizzas": [
+        {
+            "Name": "Margharitta",
+            "Ingridients": [
+                [
+                    "tomatoes",
+                    "tomato sause",
+                    "mozarella"
+                ]
+            ],
+            "Price": 200,
+            "Day": "Monday"
+        },
+        {
+            "Name": "Pepperoni",
+            "Ingridients": [
+                [
+                    "olives",
+                    "bell pepper",
+                    "sausage"
+                ]
+            ],
+            "Price": 210,
+            "Day": "Tuesday"
+        },
+        {
+            "Name": "Local",
+            "Ingridients": [
+                "extra cheese",
+                "tomatoes"
+            ],
+            "Price": 232,
+            "Day": "souse"
+        },
+        {
+            "Name": "NonStop",
+            "Ingridients": [
+                "extra extra cheese",
+                "double tomatoes"
+            ],
+            "Price": 232,
+            "Day": "souse"
+        }
+    ]
+}
